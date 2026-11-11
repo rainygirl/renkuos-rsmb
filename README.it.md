@@ -64,6 +64,6 @@ condivise su RenkuOS/HaikuOS.
 
 MIT. Include libsmb2 (GNU LGPL 2.1) e parti di Haiku (MIT).
 
-## Dichiarazione sull'uso dell'IA
+## Uso dell'IA
 
-Questo programma e' stato scritto con Claude.
+Parti di R SMB sono state sviluppate con l'aiuto di strumenti di programmazione basati sull'IA (Claude di Anthropic). Tutto il codice è stato rivisto e testato dall'autore.

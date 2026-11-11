@@ -62,6 +62,7 @@ FuseSMB(`fusesmb_haiku`)는 RenkuOS/HaikuOS에서 공유 폴더를 열던 예전
 
 MIT. libsmb2(GNU LGPL 2.1)와 Haiku의 일부(MIT)가 포함되어 있습니다.
 
-## AI 고지
+## AI 사용 고지
 
-이 프로그램은 Claude와 함께 작성되었습니다.
+R SMB의 일부는 AI 코딩 도구(Anthropic Claude)의 도움을 받아 개발했습니다.
+모든 코드는 작성자가 검토하고 테스트했습니다.

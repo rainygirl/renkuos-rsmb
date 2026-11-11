@@ -67,4 +67,5 @@ MIT. Includes libsmb2 (GNU LGPL 2.1) and parts of Haiku (MIT).
 
 ## AI disclosure
 
-This program was written with Claude.
+Parts of R SMB were developed with the assistance of AI coding tools
+(Anthropic's Claude). All code has been reviewed and tested by the author.
